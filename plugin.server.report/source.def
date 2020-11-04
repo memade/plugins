@@ -1,0 +1,9 @@
+﻿LIBRARY plugin.server.reoprt.dll
+EXPORTS
+api_plugin_init									@1
+api_plugin_uninit								@2
+api_plugin_start								@3
+api_plugin_stop									@4
+api_plugin_open								@5
+api_plugin_close								@6
+api_plugin_about								@7
